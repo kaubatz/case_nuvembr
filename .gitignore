@@ -1,0 +1,15 @@
+# Logs gerados pelo executar_pipeline.bat
+logs/
+
+# Pacotes temporarios
+*.zip
+
+# Ambiente virtual Python (caso use dbt/Python)
+.venv/
+
+# Arquivos temporarios do Windows e do Office
+Thumbs.db
+desktop.ini
+~$*
+old/
+00 arquivos/*.pdf
